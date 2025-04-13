@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 streamlit==1.32.0
 PyPDF2==3.0.1
 python-docx==0.8.11
 google-generativeai==0.3.2
 python-dotenv==1.0.0
 
+=======
+openai
+langchain
+pdfminer.six
+python-docx
+streamlit
+python-dotenv
+>>>>>>> 51e8a6e42e67735b3c819ebf0db51c1b2b734922
