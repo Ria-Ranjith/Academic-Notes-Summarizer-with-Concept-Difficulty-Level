@@ -1,10 +1,6 @@
-<<<<<<< HEAD
+
 ".env" 
 "venv/" 
 "__pycache__/" 
-=======
-.env 
-venv/ 
-__pycache__/ 
-*.pyc 
->>>>>>> 51e8a6e42e67735b3c819ebf0db51c1b2b734922
+ 
+
